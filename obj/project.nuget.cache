@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KOsQIoomZyMXmQBpCTWm1tp2xntXCbNNC9ni+8gN1MV2hvJbH6VQWAWSmD6yp2ZQS7AMi8S53a1k40NKMGsqw==",
+  "success": true,
+  "projectFilePath": "/Users/jocelynnhartwig/Dev/SpeechToTextCSharp/SpeechToTextCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jocelynnhartwig/.nuget/packages/microsoft.cognitiveservices.speech/1.15.0/microsoft.cognitiveservices.speech.1.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
